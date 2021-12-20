@@ -1,0 +1,1 @@
+Command: 'mongo bookAPI < booksJson.js'
